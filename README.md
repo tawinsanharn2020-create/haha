@@ -1,5 +1,5 @@
 <h1 align="center">Tawin Sanharn </h1>
-<h3 align="center">I
+<h1 align="center">
 
 I’m an aspiring university student preparing to study at Mahidol University, with a strong interest in medical technology, automation, and hospital control systems.
 
