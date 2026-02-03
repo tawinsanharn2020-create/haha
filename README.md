@@ -1,5 +1,7 @@
 
-##Tawin Sanharn 🌐 Socials: I’m an aspiring university student preparing to study at Mahidol University, with a strong interest in medical technology, automation, and hospital control systems.
+##Tawin Sanharn 
+
+I’m an aspiring university student preparing to study at Mahidol University, with a strong interest in medical technology, automation, and hospital control systems.
 
 I’m passionate about solving grassroots healthcare problems through practical, low-cost, and precise solutions, especially in areas related to early and targeted diagnosis. My focus is on using engineering and technology to support healthcare systems where accuracy, reliability, and accessibility truly matter.
 
